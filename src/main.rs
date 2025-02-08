@@ -1,3 +1,5 @@
+//Implemenation of the greedy algorithm for the change problem
+
 use std::io;
 
 //Function to calculate coins for a specific denomination
